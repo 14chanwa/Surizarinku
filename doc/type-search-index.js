@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"Action"},{"p":"<Unnamed>","l":"Action.Direction"},{"p":"<Unnamed>","l":"Dates"},{"p":"<Unnamed>","l":"Grille"},{"p":"<Unnamed>","l":"Grille.Diff"},{"p":"<Unnamed>","l":"Session"},{"p":"<Unnamed>","l":"Session_creation"},{"p":"<Unnamed>","l":"Session_jeu"},{"p":"<Unnamed>","l":"Surizarinku"}]
