@@ -14,19 +14,19 @@ Le joueur commence en haut à gauche et se déplace (en remplissant les arêtes sur
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/14chanwa/Surizarinku/master/wiki_ressources/screen001.PNG" width="500">
+<img src="https://raw.githubusercontent.com/14chanwa/Surizarinku/master/wiki_resources/screen001.PNG" width="500">
 </p>
 <p align="center"><em>Mode jeu</em></p>
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/14chanwa/Surizarinku/master/wiki_ressources/screen003.PNG" width="500">
+<img src="https://raw.githubusercontent.com/14chanwa/Surizarinku/master/wiki_resources/screen003.PNG" width="500">
 </p>
 <p align="center"><em>Vérification de la solution proposée par le joueur. On voit les contraintes non remplies.</em></p>
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/14chanwa/Surizarinku/master/wiki_ressources/screen004.PNG" width="500">
+<img src="https://raw.githubusercontent.com/14chanwa/Surizarinku/master/wiki_resources/screen004.PNG" width="500">
 </p>
 <p align="center"><em>Affichage d'une solution possible en surimpression.</em></p>
 
@@ -41,6 +41,6 @@ Le programme propose un mode dans lequel l'utilisateur dessine lui-même son chem
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/14chanwa/Surizarinku/master/wiki_ressources/screen001.PNG" width="500">
+<img src="https://raw.githubusercontent.com/14chanwa/Surizarinku/master/wiki_resources/screen001.PNG" width="500">
 </p>
 <p align="center"><em>Mode création</em></p>
